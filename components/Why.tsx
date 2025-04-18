@@ -9,7 +9,7 @@ const Why = () => {
     className={`${styles.flexCenter} flex-col ${styles.paddingX} ${styles.paddingY} my-6`}
     id="about"
   >
-    <h1 className="font-poppins font-semibold text-[50px] text-gradient">Why TX23 ?</h1>
+    <h1 className="font-poppins font-semibold text-[50px] text-gradient">Why SIT_TECH_KRITI 2K25 ?</h1>
     <Fade cascade>
       <ul className="list-none flex flex-col gap-24 justify-end items-center flex-1">
         {detail2.map((nav) => (
