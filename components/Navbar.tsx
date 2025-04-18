@@ -21,7 +21,7 @@ const Navbar = () => {
               width={52}
               priority={true}
             />
-            <h1 className="font-semibold text-gradient">TX23</h1>
+            <h1 className="font-semibold text-gradient">SIT_TECH_KRITI</h1>
           </div>
           <ul className="list-none ss:flex hidden justify-end items-center flex-1">
             {navLinks.map((nav, index) => (
