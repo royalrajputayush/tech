@@ -44,7 +44,7 @@ export const detail2 = [
 
 export const footerLinks = [
   {
-    title: "  ",
+    title: " Events ",
     links: [
       {
         name: "Robotics Exhibition",
@@ -102,7 +102,7 @@ export const footerLinks = [
     ],
   },
   {
-    title: "  ",
+    title: " Events ",
     links: [
       {
         name: "Art Gallary",
