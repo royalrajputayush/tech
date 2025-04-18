@@ -9,9 +9,8 @@ const BannerStrip = () => {
     >
       <Fade delay={1e3} damping={1e-1}>
         <h1 className="font-poppins font-semibold text-white">
-          Design is not just what it looks like and feels like. Design is how it
-          works.
-          <br /> <span className={`${styles.flexCenter}`}>- Steve Jobs.</span>
+          Failure is an option here. If things are not failing, you are not innovating enough.
+          <br /> <span className={`${styles.flexCenter}`}>- Elon musk.</span>
         </h1>
       </Fade>
     </div>
