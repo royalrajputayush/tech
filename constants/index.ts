@@ -47,24 +47,28 @@ export const footerLinks = [
     title: "Events",
     links: [
       {
-        name: "C.E / I.T",
+        name: "Robotics Exhibition",
         link: "https://www.hoobank.com/content/",
       },
       {
-        name: "Civil",
+        name: "Sand Rover",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
-        name: "EC-EE",
+        name: "E-Gaming",
         link: "https://www.hoobank.com/create/",
       },
       {
-        name: "Funzone",
+        name: "Bridge-O-Menia",
         link: "https://www.hoobank.com/explore/",
       },
       {
-        name: "Maths",
+        name: "Town Planning",
         link: "https://www.hoobank.com/terms-and-services/",
+      },
+      {
+        name: "Fitness Competition",
+        link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
   },
@@ -72,15 +76,27 @@ export const footerLinks = [
     title: "",
     links: [
       {
-        name: "MBA",
+        name: "Coding Competition",
         link: "https://www.hoobank.com/help-center/",
       },
       {
-        name: "Mechanical",
+        name: "Ideathon",
         link: "https://www.hoobank.com/partners/",
       },
       {
-        name: "Robotics",
+        name: "Tech Quiz",
+        link: "https://www.hoobank.com/suggestions/",
+      },
+      {
+        name: "PPT Presentation",
+        link: "https://www.hoobank.com/suggestions/",
+      },
+      {
+        name: "Logo Making",
+        link: "https://www.hoobank.com/suggestions/",
+      },
+      {
+        name: "Poster Making",
         link: "https://www.hoobank.com/suggestions/",
       },
     ],
@@ -89,11 +105,23 @@ export const footerLinks = [
     title: "Others",
     links: [
       {
-        name: "Gandhinagar University",
+        name: "Art Gallary",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
-        name: "Credits",
+        name: "Wall Painting",
+        link: "https://www.hoobank.com/become-a-partner/",
+      },
+      {
+        name: "Essay Competition",
+        link: "https://www.hoobank.com/become-a-partner/",
+      },
+      {
+        name: "Debate Competition",
+        link: "https://www.hoobank.com/become-a-partner/",
+      },
+      {
+        name: "Yoga Competition",
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
