@@ -18,13 +18,13 @@ export const detail = [
     id: "detail-1",
     img: "/About/about_1.avif",
     content:
-      "TechXtreme is an event that is organized by Gandhinagar University, which provides a platform for young people to showcase their talents and skills. The event focuses on various areas related to technology, such as programming, artificial intelligence, machine learning, robotics, and other emerging technologies. During TechXtreme, young individuals get the chance to exhibit their abilities and demonstrate their innovative ideas in front of a large audience. They also get the opportunity to interact with other participants, share their experiences, and learn from each other.",
+      "SIT_Tech_Kriti is an annual technical and entrepreneurial festival organized by the students of SIT. It showcases innovation, creativity, and technical prowess through competitions, workshops, and exhibitions. The event fosters collaboration, inspires young minds, and provides a platform for participants to explore cutting-edge technology and entrepreneurial ideas.",
   },
   {
     id: "detail-2",
     img: "/About/about_2.avif",
     content:
-      "TechXtreme not only helps participants to develop their technical skills but also their personal and interpersonal skills. It provides a platform for them to showcase their inner selves, their passion, and their drive towards their goals. This helps them to gain confidence, overcome stage fear, and develop their presentation and communication skills. In summary, TechXtreme is a unique event organized by Gandhinagar University that enables young people to learn and showcase their talents and abilities. It provides a platform for them to connect with other like-minded individuals and gain exposure to emerging technologies, ultimately helping them to develop their technical and personal skills. The event encourages them to think creatively, explore new ideas, and push their boundaries.",
+      "SIT_Tech_Kriti is an annual technical and entrepreneurial festival organized by the students of SIT. It celebrates innovation, creativity, and technical expertise through engaging competitions, workshops, and exhibitions. The event fosters collaboration among participants, inspires young minds, and provides a platform to explore cutting-edge technology and entrepreneurial ideas. It serves as a hub for showcasing talent, exchanging knowledge, and contributing to advancements in science and technology.",
   },
 ];
 export const detail2 = [
@@ -32,7 +32,7 @@ export const detail2 = [
     id: "detail-1",
     img: "/About/teamwork.jpg",
     content:
-      "Teamwork is the cornerstone of success in almost every facet of life, be it in the workplace, sports, or any collaborative endeavor. It is the art of individuals coming together, pooling their diverse talents, and working cohesively toward a common goal. In a well-functioning team, each member contributes their unique skills and perspectives, creating a synergy that surpasses what any one individual could achieve alone. Effective teamwork fosters trust, communication, and a sense of unity, enabling teams to overcome challenges and achieve remarkable outcomes. It's about recognizing that the sum is often greater than its parts, and that together, we can tackle even the most complex tasks and accomplish what may seem insurmountable when faced individually.",
+      "SIT_Tech_Kriti is a premier annual technical and entrepreneurial festival organized by the students of SIT. It celebrates innovation, creativity, and technical expertise through diverse competitions, workshops, and exhibitions. The event fosters collaboration, inspires young minds, and provides a platform to explore cutting-edge technology and entrepreneurial ideas. It serves as a hub for showcasing talent, exchanging knowledge, and contributing to advancements in science and technology. SIT Tech Kriti empowers participants to think creatively, solve real-world problems, and turn ideas into impactful solutions, making it an essential event for anyone passionate about technology and innovation.",
   },
   {
     id: "detail-2",
