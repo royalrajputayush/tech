@@ -9,7 +9,7 @@ const BannerStrip = () => {
     >
       <Fade delay={1e3} damping={1e-1}>
         <h1 className="font-poppins font-semibold text-white">
-          Failure is an option here. If things are not failing, you are not innovating enough.
+          When something is important enough, you do it even if the odds are not in your favor.
           <br /> <span className={`${styles.flexCenter}`}>- Elon musk.</span>
         </h1>
       </Fade>
