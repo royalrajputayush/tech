@@ -3,7 +3,7 @@ import Head from "next/head";
 import "../styles/globals.css";
 
 export const metadata = {
-  title: "TechExtreme-Home",
+  title: "SIT_TECH_KRITI-Home",
   description: "Events You Love!!",
 };
 
